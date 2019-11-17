@@ -17,6 +17,8 @@ TEST(test_recursive, 1) {
 
     ASSERT_TRUE(result == result1);
 
+    ASSERT_TRUE(true);
+
     // homework: add verification
 }
 
